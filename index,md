@@ -1,2 +1,33 @@
-woowowowowowo
-![Drag Racing](Capture.png)
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
+
+# A MINIGAME
+
+## SUCH A GREAT GAME 
+
+### Overview
+
+Introduce the project:
+- You have to protect your base from the brainless enemy
+- Use "Z" & "x" Shoot the bullet or a shield untill enemy died
+- Use "UP" & "DOWN" to not run in to the enemy's bullet
+- Try to think how to win.   
+- Don't give up
+
+
+
+![](example.gif)
+
+
+
+## Implementation Details 
+
+- How did you decompose the big problem into small manageable pieces? 
+- What is the role of each sprite class? 
+- How / when do the sprites interact or communicate with each other? 
+- Explain the role of any important variables.
+
+Include a decomposition diagram and the main role of each decomposed part. 
+
+![](diagram.svg)
+
+For the decomposition diagram, include each implemented class with their properties and methods and draw arrows between classes that interact with eachother. Draw by hand first. You can take a picture and add it to your page. If you want to draw the diagram digitally, you can use [diagrams.net](https://app.diagrams.net/) or any other software of your choice. Here is a [template](https://app.diagrams.net/#G1L7rig3DPeSpGgIQCM0IddXcho81k86jn) which you can use.
