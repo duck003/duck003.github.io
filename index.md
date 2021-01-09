@@ -29,4 +29,4 @@ Introduce the project:
 
    
 
-![](Capture.png)
+![](Capture.PNG)
