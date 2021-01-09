@@ -2,6 +2,10 @@
 
 # A MINIGAME
 
+<video width="960" height="720" controls>
+  <source src="movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ## SUCH A GREAT GAME 
 
 ### Overview
@@ -16,6 +20,7 @@ Introduce the project:
 - Be careful, three enemy's bullet could make your bomb destoryed.    
 - Try to think how to win.   
 - Don't give up
+
 
 
 # Implementation Details 
