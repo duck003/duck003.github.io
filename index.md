@@ -3,7 +3,7 @@
 # A MINIGAME
 
 <video width="960" height="720" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="wow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ## SUCH A GREAT GAME 
